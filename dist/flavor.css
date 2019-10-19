@@ -733,7 +733,7 @@ a:hover, a:focus {
 */
 /* Input_control module CSS variable definitions */
 :root {
-  --form-back-color: #f0f0f0;
+  --form-back-color: #1D1D1D;
   --form-fore-color: #111;
   --form-border-color: #ddd;
   --input-back-color: #f8f8f8;
@@ -741,7 +741,7 @@ a:hover, a:focus {
   --input-border-color: #ddd;
   --input-focus-color: #0288d1;
   --input-invalid-color: #d32f2f;
-  --button-back-color: #e2e2e2;
+  --button-back-color: #0d87a6;
   --button-hover-back-color: #dcdcdc;
   --button-fore-color: #212121;
   --button-border-color: transparent;
